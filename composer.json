@@ -1,0 +1,19 @@
+{
+    "name": "povilasbrilius/loan-note-mvc",
+    "description": "Loan Note based on MVC",
+    "type": "project",
+    "require": {
+        "laminas/laminas-mvc": "4.0.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Povilas Brilius",
+            "email": "pbrilius@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
